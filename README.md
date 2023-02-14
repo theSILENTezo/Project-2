@@ -15,3 +15,6 @@ Insentives for players to keep playing:
   - get the better score
   - collectables?
     + medals
+
+Theme:
+  - skeleton dodging fireballs
