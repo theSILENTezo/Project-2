@@ -15,4 +15,3 @@ Insentives for players to keep playing:
   - get the better score
   - collectables?
     + medals
-Hi simon ;)
