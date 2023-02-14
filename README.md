@@ -6,6 +6,12 @@ Game Idea:
   - object approaches player
   - player dodges incomming objects
   - objects will approach the player
+ 
+ Interface:
+  - arrowkey directions
   
 Insentives for players to keep playing:
   - Scoreboard
+  - get the better score
+  - collectables?
+    + medals
