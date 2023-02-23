@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+nmp init
+npm install --save-dev @babylonjs/core
+nmp install --save-dev @babylonjs/inspector
+tsc --init
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>A Skelton's Trial</title>
+
+    //core
+    <script src="https://cdn.babylonjs.com/babylon.js"></script>
+    <script src="https://cdn.babylonjs.com/babylon.max.js"></script>
+
+    //Inspector
+    <script src="https://cdn.babylonjs.com/inspector/babylon.inspector.bundle.js">
+    </script>
+    <script src="https://cdn.babylonjs.com/inspector/babylon.inspector.bundle.max.js"></script>
+
+  </head>
+
+  <body>
+    tsc --init
+    {
+      "compilerOptions": {
+        "target": "es6",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "noResolve": false,
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "preserveConstEnums":true,
+        "lib": [
+          "dom",
+          "es6"
+        ],
+        "rootDir": "src"
+      }
+    }
+
+  </body>
+</html>
